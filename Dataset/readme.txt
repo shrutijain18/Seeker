@@ -1,0 +1,1 @@
+This Dataset has multiple version of dataset used over a period of time. data_draft2.csv consists of possible versions of pairs that further were fed to Binary Classification using GDT classifier over the IBM Watson.

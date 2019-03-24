@@ -1,0 +1,31 @@
+user,gender,age,language,dialect,proficiency,country,occupation,interests
+user1,male,27,French,Marseillais,novice,China,artist,r&b
+user2,male,41,Malay,Brunei,fluent,Germany,artist,gymnastics
+user3,male,28,Japanese,Nagoya Ben,fluent,Germany,banker,volleyball
+user4,female,27,English,British,intermediate,South Korea,writer,video editing
+user5,female,36,Chinese,Hui,intermediate,Japan,engineer,r&b
+user6,female,42,English,Bermudian,fluent,Malaysia,freelancer,swimming
+user7,female,43,Korean,Jeolla,intermediate,Japan,artist,performing arts
+user8,male,42,German,Austrian German,fluent,France,artist,fiction
+user9,male,40,Spanish,Llanito,fluent,US,writer,typography
+user10,female,34,English,Bermudian,intermediate,Japan,artist,salad
+user11,male,40,Korean,standard,fluent,Spain,social worker,literature
+user12,female,33,Malay,Musi,native,Malaysia,freelancer,painting
+user13,male,40,German,The Berlin Dialect,intermediate,China,writer,literature
+user14,male,33,Korean,Jeolla,intermediate,Germany,writer,volleyball
+user15,male,44,German,The Berlin Dialect,intermediate,China,social worker,performing arts
+user16,female,47,English,British,intermediate,Italy,social worker,cooking
+user17,female,50,Korean,Jeju,fluent,Spain,banker,literature
+user18,male,50,Malay,Banjar,fluent,China,volunteer,kpop
+user19,female,29,Italian,Sicilian,novice,South Korea,volunteer,baking
+user20,male,35,Italian,Sicilian,intermediate,South Korea,teacher,jazz
+user21,male,35,Italian,Neapolitan,intermediate,South Korea,artist,fiction
+user22,female,26,Korean,standard,fluent,Malaysia,student,novel
+user23,female,22,English,Bermudian,novice,Italy,student,science fiction
+user24,female,26,German,standard,fluent,Malaysia,unemployed,painting
+user25,female,23,Spanish,Castilian,fluent,China,writer,dance
+user26,female,44,French,Parisian,fluent,Germany,banker,performing arts
+user27,female,42,Malay,Bangka,intermediate,Italy,writer,reading
+user28,male,40,Italian,standard,fluent,Japan,volunteer,BBQ
+user29,female,19,Korean,Chungcheong,novice,Italy,banker,jazz
+user30,female,39,German,Austrian German,intermediate,US,student,r&b
