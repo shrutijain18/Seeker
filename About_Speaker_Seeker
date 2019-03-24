@@ -1,0 +1,20 @@
+Inspiration
+Shruti and Becky have both gotten a feel for the language-learning world through the experience of teaching English. Shruti taught Indian students in India, and Becky taught Brazilian students in Massachusetts. From these experiences we learned a few things about the needs of ESL students. USA immigrants not having schedule flexibility to enroll in formal English classes can be a blocker to social mobility. Similarly, Indian students seeking to pass their TOFLE and IELTS exams for acceptance into USA universities often learn from others whose second language is English. By conversing with native speakers, these populations have a better chance to reach their full potential and dreams.
+
+What it does
+The current language-learning sphere at a technology level lacks personable interactions, leaving users disconnected from culture and people that cause language to come alive. Speaker Seeker is a web application that offers a way to make social connections worldwide starting with the basis of common interests, the ability to tell personal stories, and share in daily life, intersecting ordinary lives to form a global storyline. We create an app that facilitates language learning and cultural understanding between people who may have never met otherwise.
+
+How we built it
+Our back-end service is built using Python and front-end service is built using HTML and CSS. To reduce bias, increase diversity and introduce cultural context in the process of language learning, we design a perfect match between users as those with diverse cultural and working backgrounds but with mutual language learning needs. Users are connected through an unbiased and fair system in a way that they are able to form global friendships. We also incorporate ML elements to help us automate the matching process. The machine learning model is loaded into IBM Watson Studio Machine Learning-do Service, and then the results are sent via a callback to the frontend, which displays the best match for users as a language studymate.
+
+Challenges we ran into
+We found it challenging to integrate an ML model as well as integrating backend and frontend work together. We deployed Machine Learning service inside IBM Watson Studio, which is also our main focus.
+
+Accomplishments that we're proud of
+We are proud that we successfully deployed a machine learning model to predict matching process among users on our platform. We believe that creating a language learning platform that is personable will result in greater global awareness and cultural understanding among Americans. We will know we have succeeded when we pitch the app to people and they take interest.
+
+What we learned
+Throughout the hackathon, we gained a better understanding of machine learning and how to incorporate classifiers into the process. Furthermore, we learned that machine learning can be made socially aware. it can help promote diversity and variety in important contexts. We experimented with the variety of frontend languages as well as backend algorithms. We integrated frontend and backend and that process was a learning process for all of us.
+
+What's next for Speaker Seeker
+We will explore more suitable machine learning models that predict matching more accurately in the future. We will definitely learn more about IBM Watson Studio to help us better integrate human intelligence and machine analysing power. We will also conduct market survey to study how users behave and respond to our algorithms so that we can make adjustment and learn user psychology. There is also room to incorporate more fair algorithms and metrics.
